@@ -9,7 +9,7 @@ programa
 		real temperaturaF
 		
 		
-		escreva("Gringo, qual o seu nome: ")
+		escreva("Hi...Gringo, qual o seu nome: ")
 		leia (nome)
 		escreva("Obrigado, agora digite a temperatura em graus celsius: ")
 		leia (temperaturaC)
